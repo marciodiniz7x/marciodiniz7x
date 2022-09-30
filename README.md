@@ -2,7 +2,7 @@
 
 - 🧘‍♂️ Me chamo Márcio
 - 🔭 Atualmente o meu foco é front-end
-- 💬 Desenvolvo com Javascript há quase 2 anos
+- 💬 Desenvolvo com Javascript há 2 anos
 - 📘 Hoje aprofundando os estudos em React
 - ⚡ Trabalho com as principais tecnologias em torno do JavaScript
 
