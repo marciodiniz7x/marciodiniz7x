@@ -1,28 +1,29 @@
 ### Hello, stranger! 👋
 
-- 🧘‍♂️ Me chamo Márcio
-- 🔭 Atualmente o meu foco é front-end
-- 💬 Desenvolvo com Javascript há 2 anos
-- 📘 Hoje aprofundando os estudos em React
+- 🧘‍♂️ Me chamo **Márcio**
+- 💬 Desenvolvo em Javascript há mais de 2 anos
+- 📘 Hoje o meu foco é direcionado ao **front-end**
 - ⚡ Trabalho com as principais tecnologias em torno do JavaScript
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcio-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Marcio-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Marcio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Marcio-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Marcio-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Marcio-B" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img align="center" alt="Marcio-HTML"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div> <br>
 
 <div align="center">
   <a href="https://github.com/marciodiniz7x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciodiniz7x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodiniz7x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcio-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcio-B" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Marcio-HTML" height="30" width="40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
+
   
-  ##
+  <br>
+  
   
   <div>
        <a href="https://instagram.com/marciodiniz.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
