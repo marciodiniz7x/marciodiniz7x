@@ -1,9 +1,8 @@
 ### Hello, stranger! 👋
 
-- 🧘‍♂️ Me chamo **Márcio**
-- 💬 Desenvolvo em Javascript há mais de 2 anos
-- 📘 Hoje o meu foco é direcionado ao **front-end**
-- ⚡ Trabalho com as principais tecnologias em torno do JavaScript
+- 💬 Me chamo **Márcio**. Sou desenvolvedor há 2 anos.
+- 📘 Hoje com foco no **front-end**
+- ⚡ Trabalho com JavaScript e as principais tecnologias em seu entorno.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
