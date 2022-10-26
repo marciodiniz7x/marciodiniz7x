@@ -2,7 +2,7 @@
 
 - 💬 Me chamo **Márcio**. Sou desenvolvedor há 2 anos.
 - 📘 Hoje com foco no **front-end**
-- ⚡ Trabalho com JavaScript e as principais tecnologias em seu entorno.
+- ⚡ Trabalho com JavaScript e algumas das principais tecnologias front-end atuais.
 
 <div style="display: inline_block"><br>
 
