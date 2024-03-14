@@ -1,6 +1,6 @@
 ### Hello, stranger! 👋
 
-- 💬 Me chamo **Márcio**. Sou desenvolvedor há 2 anos.
+- 💬 Me chamo **Márcio**. Sou desenvolvedor há 5 anos.
 - 📘 Hoje com foco no **front-end**.
 - ⚡ Trabalho com JavaScript e diversas tecnologias front-end atuais.
 
