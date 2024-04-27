@@ -17,7 +17,9 @@
   <div align="center">
   <a href="https://github.com/marciodiniz7x">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodiniz7x&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciodiniz7x&layout=compact&langs_count=7&theme=dracula"/> <br>
+  <img src="https://streak-stats.demolab.com/?user=marciodiniz7x&count_private=true color=7ADD8B&theme=dracula&title_color=7ADD8B"/> <br>
+  [![Marcio's github stats](https://bad-apple-github-readme.vercel.app/api?username=marciodiniz7x&show_icons=true&count_private=true&line_height=20&icon_color=BAA8FE&theme=dracula&title_color=BAA8FE)](#)
 </div>
     
   <br>
