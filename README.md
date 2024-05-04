@@ -1,8 +1,8 @@
 ### Hello, stranger! 👋
 
 - 💬 Me chamo **Márcio**. Sou desenvolvedor há 5 anos.
-- 📘 Hoje com foco no **front-end**.
-- ⚡ Trabalho com JavaScript e diversas tecnologias front-end atuais.
+- 📘 Hoje com foco no Desenvolvimento Web **fullstack**.
+- ⚡ Trabalho com as principais tecnologias atuais:
 <br>
 <div align="left" style="display: inline_block">
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
