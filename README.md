@@ -1,7 +1,7 @@
 ### Hello, stranger! 👋
 
-- 💬 Me chamo **Márcio**. Sou desenvolvedor há 5 anos.
-- 📘 Hoje com foco no Desenvolvimento Web **fullstack**.
+- 💬 Me chamo **Márcio**.
+- 📘 Desenvolvedor Web **fullstack**.
 - ⚡ Trabalho com algumas das principais tecnologias atuais:
 <br>
 <div align="left" style="display: inline_block">
