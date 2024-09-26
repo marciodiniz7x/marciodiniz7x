@@ -1,7 +1,7 @@
 ### Hello, stranger! 👋
 
 - 💬 Me chamo **Márcio**.
-- 📘 Desenvolvedor Web **fullstack**.
+- 📘 Desenvolvedor Web **Fullstack**.
 - ⚡ Trabalho com algumas das principais tecnologias atuais:
 <br>
 <div align="left" style="display: inline_block">
